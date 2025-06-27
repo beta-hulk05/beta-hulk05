@@ -7,7 +7,7 @@ I'm a **Full Stack Web Developer** and **freelancer**, currently pursuing a Bach
 ## 💼 About Me
 
 - 🎓 **Education**:  
-  Second-year undergraduate at **BIT Mesra**, majoring in **ECE**.
+  Pre-final-year undergraduate at **BIT Mesra**, majoring in **ECE**.
 
 - 🧑‍💻 **What I Do**:  
   Build responsive websites, eCommerce platforms, admin dashboards, and RESTful backends using the **MERN stack**.
