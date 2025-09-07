@@ -42,23 +42,7 @@ I'm a **Full Stack Web Developer** and **freelancer**, currently pursuing a Bach
 
 ---
 
-## 🚀 Featured Projects
 
-### [RNY Clothing](https://rnyclothing.in/)
-A full-featured **eCommerce platform** for a fashion brand.  
-**Key Features**: Shopping cart, secure checkout, admin dashboard, product management  
-**Tech Stack**: MongoDB, Express.js, React, Node.js  
-🔗 [Live Site](https://rnyclothing.in)
-
----
-
-### [180DC BIT Mesra Website](https://180dcbitmesra.in/)
-Official website for the **180 Degrees Consulting** chapter at BIT Mesra.  
-**Highlights**: Responsive layout, mission-driven content, modern design  
-**Tech Stack**: HTML, CSS, JavaScript  
-🔗 [Live Site](https://180dcbitmesra.in)
-
----
 
 ## 📊 GitHub Stats
 
